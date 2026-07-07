@@ -133,12 +133,12 @@ color, and render recipe.
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/vietqr.svg" alt="VietQR" height="26"><br><sub>VietQR</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/vnpay.svg" alt="VNPAY" height="34"><br><sub>VNPAY</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/zalopay.svg" alt="ZaloPay" height="26"><br><sub>ZaloPay</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/momo.svg" alt="MoMo" height="26"><br><sub>MoMo</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/visa.svg" alt="Visa" height="34"><br><sub>Visa</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/mastercard.svg" alt="Mastercard" height="26"><br><sub>Mastercard</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/vietqr.svg" alt="VietQR" width="90"><br><sub>VietQR</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/vnpay.svg" alt="VNPAY" width="90"><br><sub>VNPAY</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/zalopay.svg" alt="ZaloPay" width="90"><br><sub>ZaloPay</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/momo.svg" alt="MoMo" width="90"><br><sub>MoMo</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/visa.svg" alt="Visa" width="90"><br><sub>Visa</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/payment/mastercard.svg" alt="Mastercard" width="90"><br><sub>Mastercard</sub></td>
 </tr>
 </table>
 </div>
