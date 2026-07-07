@@ -1,5 +1,5 @@
 ---
-name: icon-pro-max
+name: icons-pro-max
 description: >
   The single source of truth for every icon on the Personal Web:
   payment methods, QR codes, social/app brand marks, the lucide-react UI icon

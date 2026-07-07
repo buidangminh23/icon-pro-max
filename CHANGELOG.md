@@ -16,7 +16,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/); versioning is
   `src/SocialIcons.tsx`.
 - **UI icons** — the full in-use lucide-react set as a reuse reference.
 - **Tech-stack logos** — 50 brand-colored SVGs.
-- Self-contained asset mirror under `skills/icon-pro-max/assets/`.
+- Self-contained asset mirror under `skills/icons-pro-max/assets/`.
 - Anti-slop checklist and an add-an-icon procedure.
 - Multi-platform packaging: Claude Code plugin + marketplace, Codex plugin,
   agents marketplace, Gemini extension.
