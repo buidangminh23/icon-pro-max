@@ -86,17 +86,17 @@ const Logo = ({ src, alt, h }: { src: string; alt: string; h: number }) => (
 
 ## 2. QR CODES
 
-| QR | Web asset | Skill asset | How |
-|----|-----------|-------------|-----|
-| MoMo static | `/qr_momo.png` | `assets/qr/qr_momo.png` | raster `<img>`, render on a white card |
-| ZaloPay static | `/qr_zalopay.png` | `assets/qr/qr_zalopay.png` | raster `<img>`, render on a white card |
-| VietQR **dynamic** | — | — | generated per-amount via `qrUrl()` (see below) |
+| QR | Web asset | How |
+|----|-----------|-----|
+| MoMo static | `/qr_momo.png` | raster `<img>`, render on a white card (personal pay code — lives in the web `public/`, not bundled in this skill) |
+| ZaloPay static | `/qr_zalopay.png` | raster `<img>`, render on a white card (personal pay code — lives in the web `public/`, not bundled in this skill) |
+| VietQR **dynamic** | — | generated per-amount via `qrUrl()` (see below) |
 
 ### 2.A VietQR dynamic — never hardcode a bank QR image
 
 ```ts
 // src/lib/payment.ts — bank details live here (single source)
-export const PAY = { bank: "TPBank", bankCode: "TPB", account: "…", holder: "…", … };
+export const PAY = { bank: "…", bankCode: "…", account: "…", holder: "…", … };
 
 export const qrUrl = (amount: number, ref: string, email: string) =>
   `https://img.vietqr.io/image/${PAY.bankCode}-${PAY.account}-compact.png?amount=${amount}` +

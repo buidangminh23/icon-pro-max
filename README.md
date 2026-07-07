@@ -145,19 +145,6 @@ color, and render recipe.
 
 Components: `VietQRLogo` · `VnpayLogo` · `ZaloPayLogo` · `MoMoLogo` · `VisaLogo` · `MastercardLogo` — all via the shared white **badge wrapper** in `PaymentLogos.tsx`, each at a tuned height (11–18px).
 
-### 📱 QR codes — 2 static + 1 dynamic
-
-<div align="center">
-<table>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/qr/qr_momo.png" alt="MoMo QR" height="120"><br><sub>MoMo</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/buidangminh23/icon-pro-max/main/skills/icon-pro-max/assets/qr/qr_zalopay.png" alt="ZaloPay QR" height="120"><br><sub>ZaloPay</sub></td>
-</tr>
-</table>
-</div>
-
-VietQR is generated per-amount at runtime via `qrUrl(amount, ref, email)` — never hardcoded.
-
 ### 🔗 Social & app brand icons — 6
 
 <div align="center">
