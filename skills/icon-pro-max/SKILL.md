@@ -135,7 +135,7 @@ export const GitHubIcon = ({ className = "h-5 w-5" }: { className?: string }) =>
 );
 
 // Zalo — one <img>, one source path, forwards extra props (alt / data-testid)
-export const ZaloIcon = ({ className, alt = "Zalo", ...rest }) => (
+export const ZaloIcon = ({ className, alt = "Zalo logo", ...rest }) => (
   <img src="/assets/zalo-logo.svg" alt={alt} role="img" aria-label={alt} className={className} {...rest} />
 );
 
